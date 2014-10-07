@@ -1,0 +1,15 @@
+{
+    "name": "root/drupal-github-flow-tests",
+    "require": {
+        "squizlabs/php_codesniffer": "1.*",
+        "jotjunior/coder": "7.2.2"
+    },
+    "license": "GPL2+",
+    "authors": [
+        {
+            "name": "Howard Tyson",
+            "email": "howard@howardtyson.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}

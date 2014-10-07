@@ -1,0 +1,4 @@
+language: php
+php:
+  - 5.3
+script: ./vendor/bin/phpcs --standard=vendor/drupal/coder/coder_sniffer/Drupal/ruleset.xml .
